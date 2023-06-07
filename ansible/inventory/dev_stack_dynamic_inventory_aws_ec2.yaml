@@ -4,7 +4,7 @@ regions:
 filters:
   tag:Project: tera-kube-ans
   tag:environment: dev
-  instance-state-name: running
+  instance-state-name: runnin g
 keyed_groups:
   - key: tags['Project']
     prefix: 'all_instances'
